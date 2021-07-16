@@ -1,14 +1,11 @@
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![cppcheck-action](https://socialify.git.ci/deep5050/cppcheck-action/image?description=1&logo=https%3A%2F%2Fi.imgur.com%2FbDs8nfo.png&theme=Light)
-
 
 
 <div align=center>
 <p align=center>
-<img align=center src=http://hits.dwyl.com/deep5050/cppcheck-action.svg alt=visits>
+<p><a href=https://www.youtube.com/channel/UCHE71XuJOPKlHSxSr40u5Lw> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCHE71XuJOPKlHSxSr40u5Lw?style=social"></a>
+<a href=https://www.youtube.com/channel/UCHE71XuJOPKlHSxSr40u5Lw> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCHE71XuJOPKlHSxSr40u5Lw?style=social"></a></p>
 <img align=center src=https://img.shields.io/github/v/release/deep5050/cppcheck-action?style=flat-square alt=release>
 </p>
 
@@ -175,4 +172,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 [![deep5050/memes-on-issues-action - GitHub](https://gh-card.dev/repos/deep5050/memes-on-issues-action.svg)](https://github.com/deep5050/memes-on-issues-action)
 
-
+[![deep5050/smart-radio - GitHub](https://gh-card.dev/repos/deep5050/smart-radio.svg)](https://github.com/deep5050/smart-radio)
